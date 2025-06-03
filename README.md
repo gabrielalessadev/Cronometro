@@ -1,6 +1,7 @@
 # Cronômetro
 
-2Cronômetro App:
+Cronômetro App:
+
 Desenvolva um aplicativo de
 cronômetro simples chamado
 Cronômetro, com as funções
