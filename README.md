@@ -1,2 +1,2 @@
-# Stopwatch
+# Cronômetro
 
